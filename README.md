@@ -10,3 +10,7 @@ users to search, book, and manage car rentals seamlessly.
 
 
 SDLC Model: Waterfall
+
+
+https://github.com/imwiz/ShovanPritaPaul-ID2002026/assets/68814790/52ab8cc5-ec16-4e7a-ae22-89ef86c05b3c
+
