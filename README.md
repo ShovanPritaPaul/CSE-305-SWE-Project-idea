@@ -1,4 +1,4 @@
-# ShovanPritaPaul-ID-2002026     
+     
 Course Code: CSE305      
 Course Title: Software Engineering         
 Project Title: CarGo - Car Rental Reservation System        
